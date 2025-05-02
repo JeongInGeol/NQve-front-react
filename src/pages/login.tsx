@@ -15,7 +15,7 @@ export default function LoginPage() {
           <span>또는</span>
         </div>
 
-        <button className="google-button">Google으로 로그인</button>
+        <button className="google-button">Google로 로그인</button>
 
         <div className="forgot-password">
           <a href="#">비밀번호를 잊으셨나요?</a>
